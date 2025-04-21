@@ -87,6 +87,10 @@ Each module contains detailed documentation about its specific type system conce
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Resources
+
+[Rust Type System Deep Dive From GATs to Type Erasure](https://minikin.me/blog/rust-type-system-deep-dive)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. When contributing:
