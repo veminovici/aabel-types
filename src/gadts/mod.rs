@@ -23,8 +23,10 @@
 //! assert_eq!(iter.next(), Some(&1));
 //! ```
 
+mod closures;
 mod collection_factory;
 mod container;
 
 pub use collection_factory::*;
 pub use container::*;
+pub use closures::*;
